@@ -10,6 +10,7 @@ h1{
 }
 section{
     display: flex;
+    margin-bottom: 50px;
 }
 .half-width{
     width: 50%;
@@ -24,4 +25,10 @@ section{
     color: white;
     font-weight: 700;
     padding: 10px 40px;
+}
+.learning-limit{
+    background-image: url(images/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 200px;
 }
