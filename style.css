@@ -1,0 +1,10 @@
+h1{
+    font-size: 40px;
+}
+.flexible-container{
+    display: flex;
+    margin-bottom:150px;
+}
+#image{
+    
+}
